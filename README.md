@@ -2,14 +2,13 @@
 
 A collection of locale lists.
 
-* Android 5.1: [csv](locales/android.csv) | [json](locales/android.json) (645 locales, [source](https://stackoverflow.com/questions/7973023/what-is-the-list-of-supported-languages-locales-on-android))
-* DuckDuckGo: [csv](locales/duckduckgo.csv) | [json](locales/duckduckgo.json) with translated names (100 locales, [source](https://github.com/duckduckgo/duckduckgo-locales) - April 2020)
-* Facebook: [csv](locales/facebook.csv) | [json](locales/facebook.json) (103 locales, [source](https://developers.facebook.com/docs/messenger-platform/messenger-profile/supported-locales/))
-* iOS 9.3: [csv](locales/ios.csv), [json](locales/ios.json) (732 locales, [source](https://gist.github.com/jasef/337431c43c3addb2cbd5eb215b376179))
-* Microsoft OpenSpec: [csv](locales/microsoft.csv) | [json](locales/microsoft.json) (829 locales, [source](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c))
-* Umpirsky: [csv](locales/umpirsky.csv) | [json](locales/umpirsky.json) (563 locales, [source](https://github.com/umpirsky/locale-list/blob/master/data/en/locales.csv))
-* Java 8: [csv](locales/java.csv) | [json](locales/java.json) (110 locales, [source](https://www.oracle.com/java/technologies/javase/jdk8-jre8-suported-locales.html))
-
+* Android 5.1 - [csv](locales/android.csv) | [json](locales/android.json) (645 locales, [source](https://stackoverflow.com/questions/7973023/what-is-the-list-of-supported-languages-locales-on-android))
+* DuckDuckGo - Native: [csv](locales/duckduckgo.csv) | [json](locales/duckduckgo.json) (100 locales, [source](https://github.com/duckduckgo/duckduckgo-locales))
+* Facebook - [csv](locales/facebook.csv) | [json](locales/facebook.json) (103 locales, [source](https://developers.facebook.com/docs/messenger-platform/messenger-profile/supported-locales/))
+* iOS 9.3 - [csv](locales/ios.csv), [json](locales/ios.json) (732 locales, [source](https://gist.github.com/jasef/337431c43c3addb2cbd5eb215b376179))
+* Microsoft OpenSpec - [csv](locales/microsoft.csv) | [json](locales/microsoft.json) (829 locales, [source](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c))
+* Umpirsky - [csv](locales/umpirsky.csv) | [json](locales/umpirsky.json) (563 locales, [source](https://github.com/umpirsky/locale-list/blob/master/data/en/locales.csv))
+* Java 8 - [csv](locales/java.csv) | [json](locales/java.json) (110 locales, [source](https://www.oracle.com/java/technologies/javase/jdk8-jre8-suported-locales.html))
 
 ## Notes
 
