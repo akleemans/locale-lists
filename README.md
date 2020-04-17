@@ -9,7 +9,7 @@ A collection of locale lists.
 * Java 8 - [csv](locales/java.csv) | [json](locales/java.json) (110 locales, [source](https://www.oracle.com/java/technologies/javase/jdk8-jre8-suported-locales.html))
 * Microsoft OpenSpec - [csv](locales/microsoft.csv) | [json](locales/microsoft.json) (829 locales, [source](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c))
 * Umpirsky - [csv](locales/umpirsky.csv) | [json](locales/umpirsky.json) (563 locales, [source](https://github.com/umpirsky/locale-list/blob/master/data/en/locales.csv))
-
+* Wordpress - Native: [csv](locales/wordpress_native.csv) | [json](locales/wordpress_native.json), English: [csv](locales/wordpress_en.csv) | [json](locales/wordpress_en.json) (192 locales, [source](https://translate.wordpress.org/))
 
 ## Notes
 
